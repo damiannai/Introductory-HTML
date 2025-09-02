@@ -14,3 +14,4 @@ I wanted to show off some of my basic HTML knowledge and skills by making this.
 Some of the code was already made by me before, hence why I was able to complete this quickly, I just reused it.
 Hopefully this is impressive enough!
 
+<img src="https://github.com/damiannai/Introductory-HTML/blob/main/Resources/Screenshot.png"/> 
